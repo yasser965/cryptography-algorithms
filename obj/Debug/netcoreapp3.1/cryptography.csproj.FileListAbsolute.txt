@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\cryptography\obj\Debug\netcoreapp3.1\cryptography.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\cryptography\obj\Debug\netcoreapp3.1\cryptography.Form1.resources
+C:\Users\Dell\source\repos\cryptography\obj\Debug\netcoreapp3.1\cryptography.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\cryptography\obj\Debug\netcoreapp3.1\cryptography.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\cryptography\obj\Debug\netcoreapp3.1\cryptography.AssemblyInfo.cs
+C:\Users\Dell\source\repos\cryptography\obj\Debug\netcoreapp3.1\cryptography.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\cryptography\bin\Debug\netcoreapp3.1\cryptography.exe
+C:\Users\Dell\source\repos\cryptography\bin\Debug\netcoreapp3.1\cryptography.deps.json
+C:\Users\Dell\source\repos\cryptography\bin\Debug\netcoreapp3.1\cryptography.runtimeconfig.json
+C:\Users\Dell\source\repos\cryptography\bin\Debug\netcoreapp3.1\cryptography.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\cryptography\bin\Debug\netcoreapp3.1\cryptography.dll
+C:\Users\Dell\source\repos\cryptography\bin\Debug\netcoreapp3.1\cryptography.pdb
+C:\Users\Dell\source\repos\cryptography\obj\Debug\netcoreapp3.1\cryptography.dll
+C:\Users\Dell\source\repos\cryptography\obj\Debug\netcoreapp3.1\cryptography.pdb
+C:\Users\Dell\source\repos\cryptography\obj\Debug\netcoreapp3.1\cryptography.genruntimeconfig.cache
